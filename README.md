@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol Chauhan</h1>
+<h1 align="center">Hi 👋, I'm ANMOL CHAUHAN</h1>
 <h3 align="center">I aspire, to put my knowledge and experience to leverage products and technology.
 
 
