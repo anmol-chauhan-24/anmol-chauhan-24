@@ -55,20 +55,7 @@
 
 <hr>
 <br>
-<h2>📊 Github Stats</h2>
-<a href='https://github.com/anmol-chauhan-24/github-stats-transparent'></a>
-   
-   
-<p align="center">
-<a href="https://github.com/anmol-chauhan-24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anmol-chauhan-24&count_private=true&include_all_commits=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=anmol-chauhan-24&theme=neon-palenight)(https://git.io/streak-stats"/>
-</a>
-</p>
-<br>
 
-<a href="https://github.com/anmol-chauhan-24/github-readme-activity-graph"><img alt="Anmol;s graph" src="https://activity-graph.herokuapp.com/graph?username=anmol-chauhan-24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br>
 <hr>
