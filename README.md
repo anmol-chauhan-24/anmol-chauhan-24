@@ -19,7 +19,7 @@
 
 
 
-:mortar_board: I am a Computer Science Undergratue with specialization in Machine Learning. 
+:mortar_board: I am a Computer Science Undergratue. 
 
 :see_no_evil: I completed Smart India Hackathon . I am working on open source projects since my first Year.
 
