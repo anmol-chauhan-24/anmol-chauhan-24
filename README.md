@@ -27,11 +27,6 @@
 :frog: I love solving life problems using code. (Love to talk about them)
    
 ⚡ Fun fact: Pretty good with learning new technologies.
-
-
-------
-   | <a href="https://github.com/anmol-chauhan-24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol-chauhan-24&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anmol's github stats" /></a> | <a href="https://github.com/anmol-chauhan-24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-chauhan-24&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
     
   <h2>Languages and Tools:</h2>
    
