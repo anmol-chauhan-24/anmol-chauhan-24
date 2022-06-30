@@ -30,13 +30,8 @@
 
 
 ------
-   
-   <table style="width:100%">
-  <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-chauhan-24&layout=compact&hide=Golang" /></th>
-    
-  </tr>
-</table>
+   | <a href="https://github.com/anmol-chauhan-24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol-chauhan-24&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anmol's github stats" /></a> | <a href="https://github.com/anmol-chauhan-24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-chauhan-24&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
     
   <h2>Languages and Tools:</h2>
    
