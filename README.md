@@ -8,7 +8,6 @@
 </h3>
 
 <table align="center">
- <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px"/> Connect with me  :</th>
   <td>
    <a href="https://www.linkedin.com/in/anmol-chauhan-38338415b/" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254880-375d3383-f227-4920-a94b-e567592268f8.png" height="47vh">  </a>
      <a href="https://twitter.com/mr_chauhan_24" class="pics"><img src="https://www.seekpng.com/png/detail/351-3516255_png-file-svg-twitter-icon-white-square.png" height="47vh">  </a>
