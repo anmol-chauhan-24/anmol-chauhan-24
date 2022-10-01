@@ -4,7 +4,6 @@
 
 <h3 align="center">I aspire, to put my knowledge and experience to leverage products and technology.
 
-
 </h3>
 
 <table align="center">
